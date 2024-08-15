@@ -1,0 +1,18 @@
+{
+  "extensions": [
+    {
+      "name": "VoirCartoon",
+      "pkg": "eu.voircartoon",
+      "lang": "fr",
+      "version": "1.0",
+      "libVersion": "1.2",
+      "sources": [
+        {
+          "name": "VoirCartoon",
+          "baseUrl": "https://www.voircartoon.fr",
+          "supportsLatest": true
+        }
+      ]
+    }
+  ]
+}
